@@ -37,13 +37,13 @@ require_once 'path/to/DataConverter.php';
 or by using composer `Recommended way`
 
 ```php
-composer require codex/data-converter
+composer require imran/data-converter
 ```
 ## Usage
 
 Then, create an instance of the DataConverter class:
 ```php
-use Codex\DataConverer\DataConverer;
+use Imran\DataConverer\DataConverer;
 
 $dataConverter = new DataConverter();
 ```

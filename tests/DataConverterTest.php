@@ -1,8 +1,8 @@
 <?php
 
-namespace Codex\DataConverter\Tests;
+namespace Imran\DataConverter\Tests;
 
-use Codex\DataConverter\DataConverter;
+use Imran\DataConverter\DataConverter;
 use PHPUnit\Framework\TestCase;
 
 class DataConverterTest extends TestCase

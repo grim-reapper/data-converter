@@ -1,6 +1,6 @@
 <?php
 
-namespace Codex\DataConverter\Contract;
+namespace Imran\DataConverter\Contract;
 
 
 interface ToObjectInterface

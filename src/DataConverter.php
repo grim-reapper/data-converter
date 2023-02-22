@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Codex\DataConverter;
+namespace Imran\DataConverter;
 /**
  * Class DataConverter
  * Converts data between different formats

@@ -1,8 +1,8 @@
 <?php
 
-namespace Codex\DataConverter;
+namespace Imran\DataConverter;
 
-use Codex\DataConverter\Contract\ConverterInterface;
+use Imran\DataConverter\Contract\ConverterInterface;
 
 abstract class AbstractDataConverter implements ConverterInterface
 {

@@ -1,5 +1,5 @@
 {
-  "name": "codex/data-converter",
+  "name": "imran/data-converter",
   "description": "A PHP class that converts different data formats to each other.",
   "version": "1.0.0",
   "minimum-stability": "stable",
@@ -22,12 +22,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Codex\\DataConverter\\": "src/"
+      "Imran\\DataConverter\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Codex\\DataConverter\\Tests\\": "tests"
+      "Imran\\DataConverter\\Tests\\": "tests"
     }
   },
   "scripts": {
