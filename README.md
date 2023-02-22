@@ -25,7 +25,7 @@ With its comprehensive set of conversion methods, the DataConverter class is a m
 - Converts XML To CSV
 
 ## Requirements
-- PHP 8.2 or Higher
+- PHP 8.0 or Higher
 - PHP XML Extension: `ext-simplexml`
 - PHP Yaml Extension: `ext-yaml`
 
